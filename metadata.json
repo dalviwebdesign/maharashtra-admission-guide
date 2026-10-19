@@ -1,0 +1,8 @@
+{
+  "name": "Maharashtra Technical Admission Guide 2026–27",
+  "description": "Comprehensive course-wise admission guide for Maharashtra State CET Cell technical courses 2026–27, covering eligibility, exams, reservations, CAP stages, and document checklists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
